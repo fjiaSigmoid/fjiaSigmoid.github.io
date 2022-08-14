@@ -36,7 +36,7 @@ plugins:
 
 
 header_pages:
-  - about.md
+  # - about.md
   - portfolio.md
 
 # Exclude from processing.
