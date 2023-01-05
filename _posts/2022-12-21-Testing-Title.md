@@ -1,7 +1,7 @@
+---
 layout: post
-title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
-
-
+title:  "Testing123!"
+date:   2022-08-14 10:31:32 -0500
+categories: jekyll update
+---
 Testing
